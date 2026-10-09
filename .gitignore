@@ -1,0 +1,20 @@
+gitignore
+# Credenciales y secretos (NUNCA subir)
+wazuh-install-files.tar
+*passwords*
+*.key
+*.pem
+*.env
+id_*
+
+# Discos e imágenes de VMs (pesan GB)
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.iso
+
+# Basura del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
