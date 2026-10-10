@@ -1,4 +1,4 @@
-gitignore
+#gitignore
 # Credenciales y secretos (NUNCA subir)
 wazuh-install-files.tar
 *passwords*
