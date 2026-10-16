@@ -1,5 +1,6 @@
 #gitignore
 # Credenciales y secretos (NUNCA subir)
+client.keys
 wazuh-install-files.tar
 *passwords*
 *.key
